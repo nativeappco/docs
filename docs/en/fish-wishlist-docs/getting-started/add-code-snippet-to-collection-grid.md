@@ -3,7 +3,7 @@ type: page
 title: Add code snippet to collection grid
 description: Insert our code snippet to your product grid item to add our wishlist buttons to your collection grid.
 slug: add-code-snippet-to-collection-grid
-order: 5
+order: 7
 status: draft
 ---
 
