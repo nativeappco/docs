@@ -13,7 +13,7 @@ status: published
 
 We’re happy to help you set up any of our apps, troubleshoot issues, and hear feedback or new feature requests.
 
-<m-cardgroup><m-card title="Email support" href="mailto:support@nativeappco.com">Send us a message at <strong>support@nativeappco.com</strong>.</m-card> <m-card title="Book a 30-minute meeting" href="https://calendly.com/nativeappco-support/30min">Pick a time that suits you and we’ll jump on a call.</m-card></m-cardgroup>
+<m-cardgroup><m-card title="Email support" href="mailto:support@nativeappco.com">Send us a message at <strong><a href="mailto:support@nativeappco.com">support@nativeappco.com</a></strong>.</m-card> <m-card title="Book a 30-minute meeting" href="https://calendly.com/nativeappco-support/30min">Pick a time that suits you and we’ll jump on a call.</m-card></m-cardgroup>
 
 ## Contact us from inside the app
 
@@ -33,4 +33,6 @@ In apps that include a support shortcut, you can message us directly from the ap
 
 ## FAQ
 
-<m-accordiongroup><m-accordion title="Can you help with setup and installation?"><p>Yes. We can guide you through setup step-by-step (including theme-related setup). If you’d like to do it live, use our meeting link: <a href="https://calendly.com/nativeappco-support/30min" target="_blank" rel="noopener noreferrer">https://calendly.com/nativeappco-support/30min</a>.</p></m-accordion><m-accordion title="Where should I message you from inside the app?"><p>If your app shows a support shortcut on the <strong>Dashboard</strong>, use the <strong>Customer Service</strong> button to send a message. Otherwise, email <a href="mailto:support@nativeappco.com">support@nativeappco.com</a>.</p></m-accordion><m-accordion title="What’s the best channel for feature requests?"><p>Email <a href="mailto:support@nativeappco.com">support@nativeappco.com</a> with (1) what you’re trying to achieve, (2) who it’s for, and (3) an example of how you’d like it to work. We’ll reply with next steps.</p></m-accordion></m-accordiongroup>
+Yes. We can guide you through setup step-by-step (including theme-related setup). If you’d like to do it live, use our meeting link: [https://calendly.com/nativeappco-support/30min](https://calendly.com/nativeappco-support/30min).
+
+<m-accordion title="Where should I message you from inside the app?"><p>If your app shows a support shortcut on the <strong>Dashboard</strong>, use the <strong>Customer Service</strong> button to send a message. Otherwise, email <a href="mailto:support@nativeappco.com">support@nativeappco.com</a>.</p></m-accordion><m-accordion title="What’s the best channel for feature requests?"><p>Email <a href="mailto:support@nativeappco.com">support@nativeappco.com</a> with (1) what you’re trying to achieve, (2) who it’s for, and (3) an example of how you’d like it to work. We’ll reply with next steps.</p></m-accordion>

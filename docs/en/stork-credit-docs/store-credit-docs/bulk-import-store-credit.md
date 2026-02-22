@@ -21,8 +21,6 @@ In the app dashboard, navigate to the import section and click **Download CSV te
 
 Fill in the columns:
 
-<colgroup><col style="min-width: 25px;"><col style="min-width: 25px;"></colgroup>
-
 Field
 
 Description
