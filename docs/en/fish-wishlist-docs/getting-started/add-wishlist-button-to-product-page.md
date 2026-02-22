@@ -1,13 +1,13 @@
 ---
-description: >-
-  Adding a Wishlist Button to your product page is easy. Use App Blocks for a
-  super quick setup, or use our Manual setup for advanced customisation.
-icon: square-heart
+type: page
+title: Add Wishlist Button to Product Page
+description: Adding a Wishlist Button to your product page is easy. Use App Blocks for a super quick setup, or use our Manual setup for advanced customisation.
+slug: add-wishlist-button-to-product-page
+order: 1
+status: draft
 ---
 
 # Add Wishlist Button to Product Page
-
-
 
 ### Installation Options
 
@@ -23,8 +23,8 @@ For detailed instructions on adding app blocks to your product page, please refe
 
 Consider manual setup for the following scenarios:
 
-* **Adding to older themes that don't support app blocks:** For themes that predate or do not fully support Shopify's app block functionality.
-* **You prefer to add the code to your theme yourself:** For developers or users who want direct control over their theme's code.
+*   **Adding to older themes that don't support app blocks:** For themes that predate or do not fully support Shopify's app block functionality.
+*   **You prefer to add the code to your theme yourself:** For developers or users who want direct control over their theme's code.
 
 You can manually add the "Add to Wishlist" button anywhere on your site by inserting the following HTML element directly into your theme's Liquid files.
 
@@ -33,10 +33,11 @@ This method provides full flexibility in terms of button placement.
 **HTML:**
 
 {% code overflow="wrap" %}
-```html
-<wishlist-button-pdp role="button" class="fish-wishlist-button--pdp fish-wishlist-button--secondary button" data-variant-id="{{ product.selected_or_first_available_variant.id }}" data-preselected-id="{{ product.selected_or_first_available_variant.id }}" data-is-added="false">
-</wishlist-button-pdp>
-```
+
+    <wishlist-button-pdp role="button" class="fish-wishlist-button--pdp fish-wishlist-button--secondary button" data-variant-id="{{ product.selected_or_first_available_variant.id }}" data-preselected-id="{{ product.selected_or_first_available_variant.id }}" data-is-added="false">
+    </wishlist-button-pdp>
+    
+
 {% endcode %}
 
 **Customizing the Text:**
