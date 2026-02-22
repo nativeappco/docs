@@ -3,8 +3,8 @@ type: page
 title: Account Portal
 description: Fish Wishlist has an Account widget to enable logged in customers to access their wishlist easily from the account dashboard.
 slug: account-portal
-order: 2
-status: draft
+order: 8
+status: published
 ---
 
 # Account Portal

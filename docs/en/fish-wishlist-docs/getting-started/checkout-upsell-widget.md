@@ -3,7 +3,7 @@ type: page
 title: Checkout Upsell Widget
 description: Fish Wishlist has a Checkout Upsell widget to encourage logged in customers to add to their order from within the checkout.
 slug: checkout-upsell-widget
-order: 8
+order: 7
 status: draft
 ---
 
