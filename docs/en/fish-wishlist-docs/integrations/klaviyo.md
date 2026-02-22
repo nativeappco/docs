@@ -57,8 +57,6 @@ Each template delivers events to Klaviyo. You can customize the payload based on
 
 The only field you have to populate is your Klaviyo Public API Key. To fetch this, Navigate to "Account > Settings > API Keys" inside Klaviyo app.
 
-<figure><p><img class="tiptap-image" src="../.gitbook/assets/image (20).png" alt=""></p><figcaption></figcaption></figure>
-
 Once you have added your API key, you can publish the Flow and wishlist data will start flowing through to Klaviyo.
 
 * * *
@@ -76,4 +74,6 @@ Once you have added your API key, you can publish the Flow and wishlist data wil
 
 ### Support
 
-Need help or want a custom flow? [Contact us](https://app.gitbook.com/u/ORl9VeaRJSOs4nsMpInXf0lzgvu2) — we're happy to help you set it up.
+Need help or want a custom flow?
+
+[Contact us](mailto:support@nativeappco.com) — we're happy to help you set it up.
