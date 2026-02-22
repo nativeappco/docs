@@ -3,7 +3,7 @@ type: page
 title: Klaviyo
 description: Fish Wishlist supports Klaviyo integration via Shopify Flow. This allows you to trigger Klaviyo events when customers add or remove products from their wishlist.
 slug: klaviyo
-order: 2
+order: 3
 status: draft
 ---
 

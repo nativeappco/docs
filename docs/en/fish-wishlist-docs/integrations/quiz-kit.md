@@ -3,7 +3,7 @@ type: page
 title: Quiz Kit
 description: The Fish Wishlist and Quiz Kit integration allows quiz results to automatically populate a customer’s wishlist.
 slug: quiz-kit
-order: 4
+order: 5
 status: draft
 ---
 
