@@ -24,15 +24,17 @@ We’ve created **ready-to-use templates** to help you get started quickly.
 To use this integration, you’ll need:
 
 *   Fish Wishlist installed and active on your Shopify store
+    
 *   Klaviyo installed and integrated with Shopify
+    
 *   Shopify Flow installed (free for Shopify and Shopify Plus plans)
+    
 *   Your **Klaviyo Private API Key** (for sending event data)
+    
 
 * * *
 
-### Available Templates
-
-<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+### Available Templates![](../.gitbook/assets/image (19).png)
 
 You can load our prebuilt Shopify Flow templates here:  
 👉 [Use Templates](https://admin.shopify.com/apps/flow/editor/templates?apps=157109354497)
@@ -55,7 +57,7 @@ Each template delivers events to Klaviyo. You can customize the payload based on
 
 The only field you have to populate is your Klaviyo Public API Key. To fetch this, Navigate to "Account > Settings > API Keys" inside Klaviyo app.
 
-<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><p><img class="tiptap-image" src="../.gitbook/assets/image (20).png" alt=""></p><figcaption></figcaption></figure>
 
 Once you have added your API key, you can publish the Flow and wishlist data will start flowing through to Klaviyo.
 
@@ -64,8 +66,11 @@ Once you have added your API key, you can publish the Flow and wishlist data wil
 ### Notes
 
 *   This integration is managed entirely via **Shopify Flow**
+    
 *   Fish Wishlist triggers do not require any additional setup
+    
 *   You can customize your own flows beyond the provided templates
+    
 
 * * *
 
