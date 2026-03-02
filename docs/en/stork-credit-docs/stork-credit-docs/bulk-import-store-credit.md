@@ -1,15 +1,17 @@
 ---
 type: page
 title: Bulk Import Store Credit
+description: Upload a CSV to issue store credit to multiple customers at once. Learn how to download the template, format required fields, upload the file, track import jobs, and fix common errors.
 seoTitle: Bulk Import Store Credit using Stork Credit App
+seoDescription: Bulk import store credit with a CSV to issue credits to many customers at once. Download the template, upload your file, and track jobs.
 slug: bulk-import-store-credit
 order: 0
 status: published
 ---
 
-The bulk import tool enables you to upload a CSV file to issue store credit to many customers at once.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6Ijzqag_b4?si=MDNQJFxOWnTv3BFS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
 
-<iframe src="https://www.youtube.com/embed/g6Ijzqag_b4?modestbranding=1&amp;rel=0" class="youtube-iframe" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="true" style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; border-radius: 0.375rem;"></iframe>
+The bulk import tool enables you to upload a CSV file to issue store credit to many customers at once.
 
 ## Instructions
 
