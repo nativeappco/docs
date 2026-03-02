@@ -6,7 +6,7 @@ order: 0
 status: published
 ---
 
-Need help from a real person? Email [storkcredit@nativeapp.com.au](mailto:storkcredit@nativeapp.com.au)
+Need help from a real person? Email [storkcredit@nativeappco.com](mailto:storkcredit@nativeappco.com )
 
 ## Introduction to Stork Credit
 
