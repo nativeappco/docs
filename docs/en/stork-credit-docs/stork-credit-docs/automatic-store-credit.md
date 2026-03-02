@@ -7,9 +7,9 @@ order: 0
 status: published
 ---
 
-This Stork Credit feature allows you to set up rules—similar to native Shopify discounts—that automatically issue store credit based on customer spending behaviour.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Epwh3pfTLIc?si=aqzGBU4xQx22gPnY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
 
-<iframe src="https://www.youtube.com/embed/Epwh3pfTLIc?modestbranding=1&amp;rel=0" class="youtube-iframe" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="true" style="position: relative; top: 0px; left: 0px; max-width:800px;width: 100%; height: 100%; border-radius: 0.375rem;"></iframe>
+This Stork Credit feature allows you to set up rules—similar to native Shopify discounts—that automatically issue store credit based on customer spending behaviour.
 
 ## 1\. Start a Promotion
 
