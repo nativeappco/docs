@@ -10,46 +10,27 @@ Need help from a real person? Email [storkcredit@nativeapp.com.au](mailto:storkc
 
 ## Introduction to Stork Credit
 
-​
-
 Stork Credit is the simplest, most powerful way to incentivize your customers on a Shopify store. It uses Shopify's native store credit features to make it easy to automate promotions, incentives, and rewards.
 
-​
-
-### Key Features
-
-​
-
-*   ​
+*   Access automated store credit
     
-    **Native Integration:** Uses Shopify's native store credit features, eliminating the need for discount codes or gift card codes that customers might lose.
+*   Bulk store credit import
     
-*   ​
-    
-    **Currency Flexibility:** Store credit can be issued in any currency that your store offers, solving limitations often found with discounts in Shopify Markets and B2B.
-    
-*   ​
-    
-    **Three Core Tools:**
-    
-    *   Access automated store credit
-        
-    *   Bulk store credit import
-        
-    *   Shopify Flow automation for advanced workflows
-        
-*   ​
-    
-    **User Friendly:** You don't need to create loyalty points or custom redemption workflows that make it harder for customers.
+*   Shopify Flow automation for advanced workflows​
     
 
-​
+## Key Features
 
-* * *
+*   ​**Native Integration:** Uses Shopify's native store credit features, eliminating the need for discount codes or gift card codes that customers might lose.
+    
+*   **Currency Flexibility:** Store credit can be issued in any currency that your store offers, solving limitations often found with discounts in Shopify Markets and B2B.
+    
+*   **Three Core Tools:**
+    
+*   **User Friendly:** You don't need to create loyalty points or custom redemption workflows that make it harder for customers.
+    
 
-​
-
-### Installation
+## ​​Installation
 
 Stork Credit requires no code installation. To install:
 
