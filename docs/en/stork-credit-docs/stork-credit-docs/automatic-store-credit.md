@@ -1,6 +1,8 @@
 ---
 type: page
 title: Automatic Store Credit
+description: Set up Automatic Store Credit promotions that issue credit based on customer spend. Choose a template or build from scratch, define reward rules, set product and customer requirements, schedule dates, and activate. Includes stacking controls and activity logs.
+seoTitle: Automatic Store Credit Rules (Shopify) | Setup Guide
 seoDescription: Create Automated Store Credit on your Shopify Store using Stork Credit App
 slug: automatic-store-credit
 order: 0
