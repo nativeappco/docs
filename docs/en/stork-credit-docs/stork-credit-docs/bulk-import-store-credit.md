@@ -5,7 +5,7 @@ description: Upload a CSV to issue store credit to multiple customers at once. L
 seoTitle: Bulk Import Store Credit using Stork Credit App
 seoDescription: Bulk import store credit with a CSV to issue credits to many customers at once. Download the template, upload your file, and track jobs.
 slug: bulk-import-store-credit
-order: 0
+order: 4
 status: published
 ---
 

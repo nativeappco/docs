@@ -5,7 +5,7 @@ description: Create a Shopify Flow workflow that automatically issues store cred
 seoTitle: Shopify Flow store credit automation (Stork Credit)
 seoDescription: Use Shopify Flow triggers to automatically issue store credit with Stork Credit. Add the “Add Store Credit” action and configure amount, currency, and expiry.
 slug: create-store-credit-automation-using-shopify-flow
-order: 0
+order: 3
 status: published
 ---
 
@@ -13,7 +13,9 @@ status: published
 
 ![CleanShot 2026-03-03 at 06.10.40@2x](https://cdn.heymantle.com/orgs/26a47f7d-a3b9-42a0-97fc-a4835cc43fbe/assets/bba3ee85-5897-41a6-b81b-ac3016e17ab1/CleanShot_2026-03-03_at_06.10.40_2x.png)
 
-Stork Credit includes a Shopify Flow connector that lets you issue store credit automatically from any Shopify Flow workflow. You can use Shopify Flow’s native triggers (like **Customer created** or **Order paid**) or triggers from other apps, then add the Stork Credit action **Add Store Credit** to issue credit.
+Stork Credit includes a Shopify Flow action that lets you issue store credit automatically from any Shopify Flow workflow.
+
+You can use Shopify Flow’s native triggers (like **Customer created** or **Order paid**) or triggers from other apps, then add the Stork Credit action **Add Store Credit** to issue credit.
 
 <m-note><p>All setup happens in <strong>Shopify Flow</strong>. Stork Credit provides the <strong>Add Store Credit</strong> action that you add to your workflow.</p></m-note>
 

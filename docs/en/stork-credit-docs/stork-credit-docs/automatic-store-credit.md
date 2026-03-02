@@ -5,7 +5,7 @@ description: Set up Automatic Store Credit promotions that issue credit based on
 seoTitle: Automatic Store Credit Rules (Shopify) | Setup Guide
 seoDescription: Create Automated Store Credit on your Shopify Store using Stork Credit App
 slug: automatic-store-credit
-order: 0
+order: 2
 status: published
 ---
 

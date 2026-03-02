@@ -5,7 +5,7 @@ description: Add the Stork Credit checkout block in Shopify’s checkout editor,
 seoTitle: "Shopify checkout: add Stork Credit earned block"
 seoDescription: Add the Stork Credit “Automatic Store Credit” block in Shopify’s checkout editor to show customers how much store credit they’ll earn.
 slug: stork-credit-checkout-widget
-order: 0
+order: 6
 status: published
 ---
 
