@@ -6,7 +6,7 @@ seoTitle: Promotion stacking settings | Stork Credit
 seoDescription: Control how automatic store credit promotions apply when customers qualify for multiple offers. Choose Stack promotions or Best value only.
 slug: promotion-stacking
 order: 0
-status: draft
+status: published
 ---
 
 When a customer qualifies for more than one **automatic store credit** promotion at the same time, Stork Credit uses your **Promotion Stacking** setting to decide how much credit to issue.
