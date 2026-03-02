@@ -1,12 +1,15 @@
 ---
 type: page
 title: About Stork Credit
+description: Learn what Stork Credit is, how it uses Shopify’s native store credit to run incentives and rewards, key benefits (no codes, multi-currency), and how to install it from the Shopify App Store.
+seoTitle: "Stork Credit: Shopify Store Credit Incentives & Rewards"
+seoDescription: Automate Shopify store credit incentives with Stork Credit—issue rewards in any currency, bulk import, and use Shopify Flow. Install from the App Store.
 slug: stork-credit
 order: 0
 status: published
 ---
 
-Need help from a real person? Email [storkcredit@nativeappco.com](mailto:storkcredit@nativeappco.com )
+<m-info><p>Need help from a real person? Email <a target="_blank" rel="noopener noreferrer" class="tiptap-link" href="mailto:storkcredit@nativeappco.com ">storkcredit@nativeappco.com</a></p></m-info>
 
 ## Introduction to Stork Credit
 
