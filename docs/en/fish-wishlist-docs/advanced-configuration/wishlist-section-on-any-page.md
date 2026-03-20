@@ -2,6 +2,8 @@
 type: page
 title: Wishlist Section On Any Page
 description: The Wishlist Page section allows you to insert a customer's dynamic product collection (Wishlist, Abandoned Cart, or Recently Purchased items) into any template on your Shopify site.
+seoTitle: Wishlist Section On Any Page | Fish Wishlist
+seoDescription: Drop any wishlist slot onto any page of your Shopify store. Use it for Buy Again sections, abandoned cart recovery pages, and personalised product recommendations.
 slug: wishlist-section-on-any-page
 order: 14
 status: published
@@ -9,28 +11,63 @@ status: published
 
 # Wishlist Section On Any Page
 
-#### Key Benefits & Use Cases
-
-This section is a powerful tool for driving conversions by reminding customers of the items they intended to purchase. Use the Wishlist Page section to:
-
-*   **Boost Conversions on Product/Collection Pages:** Place the section _Above your Related Products_ on PDPs (Product Detail Pages) or PLPs (Product Listing Pages) to encourage customers to add a desired item to their cart before they browse similar products.
-*   **Engage Shoppers on the Homepage**: Feature a customer's saved products directly on your homepage to personalize the shopping experience from the moment they arrive.
-*   **Enhance Loyalty Programs**: Display a customer's personalized wishlist on Loyalty or Promotion pages to motivate them to redeem points or meet a spending threshold.
+The Wishlist Page section lets you drop any wishlist slot onto any page of your Shopify store using the theme editor — no code required.
 
 * * *
 
-<figure><img src=".gitbook/assets/CleanShot 2025-10-27 at 21.30.56.gif" alt=""><figcaption></figcaption></figure>
+## How to add it
 
-#### How to Add the Wishlist Page Section to a Template
-
-Adding the Wishlist Page section is done via the standard Shopify theme editor, making it quick and easy to deploy anywhere on your site.
-
-1.  From your Shopify Admin, navigate to Online Store > Themes.
-2.  Find your live theme and click the Customize button.
-3.  In the theme editor, use the dropdown menu at the top to navigate to the desired page or template where you want to add the wishlist (e.g., `Product page`, `Collection page`, or `Homepage`).
-4.  In the left sidebar menu, under the Template area, click the + Add section button.
-5.  Search for and select the Wishlist Page section.
-6.  Configure the section settings in the sidebar (see below).
-7.  Click Save in the top right corner.
+1.  Go to **Shopify Admin > Online Store > Themes > Customise**
+2.  Navigate to the page you want to add it to
+3.  Click **Add section** in the left panel
+4.  Under **Apps**, select **Wishlist Page**
+5.  Choose which wishlist slot to display using the section settings
+6.  Save
 
 * * *
+
+## Wishlist slots you can display
+
+Slot
+
+What it shows
+
+Customer wishlist
+
+The customer's saved product list
+
+Abandoned cart
+
+Products the customer left in their cart
+
+Previously purchased
+
+Products from past completed orders
+
+* * *
+
+## Use cases
+
+### "Buy Again" section on your homepage
+
+Enable **Previously Purchased** in your app settings, then drop the Wishlist Page section onto your homepage using that slot. Logged-in returning customers see a personalised re-order section every time they visit.
+
+### Abandoned cart recovery page
+
+Create a dedicated page and add the Wishlist Page section using the Abandoned Cart slot. Link to it from recovery emails to bring customers back to exactly what they left behind.
+
+### Full wishlist dashboard
+
+Add the section to an account page and configure it to loop through all a customer's wishlist slots — giving them a comprehensive saved items hub.
+
+### Product and collection pages
+
+Place the section above your related products to remind customers of items they've saved — prompting them to add to cart before they browse further.
+
+* * *
+
+## Notes
+
+*   Customers must be logged in to see their personalised wishlist content
+*   Logged-out visitors will see a prompt to sign in
+*   The section works on any page template: homepage, product pages, collection pages, custom pages
