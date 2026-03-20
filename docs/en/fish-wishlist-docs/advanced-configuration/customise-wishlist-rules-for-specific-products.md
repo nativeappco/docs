@@ -4,7 +4,7 @@ title: Customise Wishlist Rules for Specific Products
 description: Use Fish Wishlist's Tag Actions to customise the way the Add to Wishlist and Add to Cart buttons function.
 slug: customise-wishlist-rules-for-specific-products
 order: 8
-status: draft
+status: published
 ---
 
 # Customise Wishlist Rules for Specific Products

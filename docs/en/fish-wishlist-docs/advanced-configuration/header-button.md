@@ -3,7 +3,7 @@ type: page
 title: Header Button
 slug: header-button
 order: 10
-status: draft
+status: published
 ---
 
 # Header Button

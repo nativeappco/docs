@@ -3,7 +3,7 @@ type: page
 title: Drawers
 slug: drawers
 order: 9
-status: draft
+status: published
 ---
 
 # Drawers
