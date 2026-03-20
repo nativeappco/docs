@@ -4,7 +4,7 @@ title: Wishlist Landing Page
 description: Let your customers access their wishlist via a specific page on your site (rather than just via the slide out drawer). This feature is available by default on all stores.
 slug: wishlist-landing-page
 order: 13
-status: draft
+status: published
 ---
 
 # Wishlist Landing Page

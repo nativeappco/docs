@@ -4,7 +4,7 @@ title: Meta Integration
 description: The Meta Integration in the Fish Wishlist app makes it easy to track and use wishlist actions on Facebook and Instagram for effective marketing.
 slug: meta-integration
 order: 1
-status: draft
+status: published
 ---
 
 # Meta Integration

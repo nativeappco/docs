@@ -4,7 +4,7 @@ title: Print Add to Wishlist QR Codes
 description: Stores can create QR Codes for products that can be printed and allow customers to scan products in store and automatically add them to their wishlist.
 slug: print-add-to-wishlist-qr-codes
 order: 11
-status: draft
+status: published
 ---
 
 # Print Add to Wishlist QR Codes

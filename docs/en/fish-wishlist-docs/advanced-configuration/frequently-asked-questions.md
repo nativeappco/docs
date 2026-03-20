@@ -3,7 +3,7 @@ type: page
 title: Frequently Asked Questions
 slug: frequently-asked-questions
 order: 15
-status: draft
+status: published
 ---
 
 # Frequently Asked Questions

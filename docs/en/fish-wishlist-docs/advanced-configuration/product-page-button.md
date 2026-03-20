@@ -3,7 +3,7 @@ type: page
 title: Product Page Button
 slug: product-page-button
 order: 12
-status: draft
+status: published
 ---
 
 # Product Page Button

@@ -4,7 +4,7 @@ title: Wishlist Section On Any Page
 description: The Wishlist Page section allows you to insert a customer's dynamic product collection (Wishlist, Abandoned Cart, or Recently Purchased items) into any template on your Shopify site.
 slug: wishlist-section-on-any-page
 order: 14
-status: draft
+status: published
 ---
 
 # Wishlist Section On Any Page

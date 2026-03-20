@@ -4,7 +4,7 @@ title: GA4 Integration
 description: With GA4 integration, Fish Wishlist helps Shopify merchants track “Add to Wishlist” events for Google Analytics 4. GA4 integration is enabled by default and you can easily toggle it on and off.
 slug: ga4-integration
 order: 2
-status: draft
+status: published
 ---
 
 # GA4 Integration

@@ -3,7 +3,7 @@ type: page
 title: FoxSell Bundles
 slug: foxsell-bundles
 order: 4
-status: draft
+status: published
 ---
 
 # FoxSell Bundles
