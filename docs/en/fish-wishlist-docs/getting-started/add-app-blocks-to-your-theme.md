@@ -4,7 +4,7 @@ title: Add app blocks to your theme
 description: Utilise our app blocks to add our wishlist buttons to your site header & product page templates.
 slug: add-app-blocks-to-your-theme
 order: 3
-status: draft
+status: published
 ---
 
 # Add app blocks to your theme

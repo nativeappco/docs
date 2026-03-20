@@ -4,7 +4,7 @@ title: Enable app embeds
 description: Activate our app embeds to add our wishlist functionality to your site
 slug: enable-app-embeds
 order: 4
-status: draft
+status: published
 ---
 
 # Enable app embeds

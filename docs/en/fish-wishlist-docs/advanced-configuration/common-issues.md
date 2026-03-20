@@ -4,7 +4,7 @@ title: Common Issues
 description: This page contains issues that are commonly reported, along with solutions. We will continue to add to this page over time.
 slug: common-issues
 order: 6
-status: draft
+status: published
 ---
 
 # Common Issues

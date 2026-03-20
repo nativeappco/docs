@@ -4,7 +4,7 @@ title: "Add \"Open Wishlist\" Button to Your Site"
 description: "This document explains the various methods to integrate the \"Open Wishlist\" button into your website. Our automatic installation typically handles the basic setup, but manual options are available."
 slug: add-open-wishlist-button-to-your-site
 order: 5
-status: draft
+status: published
 ---
 
 # Add "Open Wishlist" Button to Your Site

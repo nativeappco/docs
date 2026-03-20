@@ -4,7 +4,7 @@ title: Wishlist Sharing
 description: Customers can share their wishlist with friends using our share feature. Store owners can customise this feature using our advanced editor.
 slug: wishlist-sharing
 order: 2
-status: draft
+status: published
 ---
 
 # Wishlist Sharing

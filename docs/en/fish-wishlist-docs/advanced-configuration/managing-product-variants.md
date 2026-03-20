@@ -4,7 +4,7 @@ title: Managing Product Variants
 description: Fish Wishlist doesn't just save products; it saves the exact version of the product your customer wants.
 slug: managing-product-variants
 order: 1
-status: draft
+status: published
 ---
 
 # Managing Product Variants

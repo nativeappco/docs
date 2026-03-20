@@ -4,7 +4,7 @@ title: Copy & Translations
 description: Fish Wishlist is compatible with Shopify's native translations. You can easily translate any of your wishlist content for any language that you have configured in Shopify Markets.
 slug: copy-and-translations
 order: 7
-status: draft
+status: published
 ---
 
 # Copy & Translations

@@ -4,7 +4,7 @@ title: Migrating from another Wishlist App
 description: Switching from another wishlist app? We make it easy to bring your customer data with you so nobody loses their saved items.
 slug: migrating-from-another-wishlist-app
 order: 3
-status: draft
+status: published
 ---
 
 # Migrating from another Wishlist App

@@ -3,7 +3,7 @@ type: page
 title: Custom Styling
 slug: README
 order: 5
-status: draft
+status: published
 ---
 
 # Custom Styling

@@ -4,7 +4,7 @@ title: Add Wishlist Button to Product Page
 description: Adding a Wishlist Button to your product page is easy. Use App Blocks for a super quick setup, or use our Manual setup for advanced customisation.
 slug: add-wishlist-button-to-product-page
 order: 2
-status: draft
+status: published
 ---
 
 # Add Wishlist Button to Product Page
