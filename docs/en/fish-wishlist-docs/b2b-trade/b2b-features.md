@@ -5,7 +5,7 @@ seoTitle: B2B & Trade Features | Fish Wishlist
 seoDescription: Fish Wishlist Trade plan features for B2B stores — Request a Quote, Buy All, quantity pickers, quantity buffer, and variant selectors.
 slug: b2b-features
 order: 1
-status: draft
+status: published
 ---
 
 # B2B & Trade Features
