@@ -5,7 +5,7 @@ seoTitle: Variant Selectors on Wishlist | Fish Wishlist
 seoDescription: Let customers change product variants directly from the wishlist. No need to return to the product page to switch size or colour.
 slug: variant-selectors
 order: 6
-status: draft
+status: published
 ---
 
 # Variant Selectors on Wishlist
