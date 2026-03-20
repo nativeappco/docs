@@ -5,7 +5,7 @@ seoTitle: Social Proof Widget | Fish Wishlist
 seoDescription: Show how many customers have wishlisted a product on your product page. Build social proof and urgency while keeping full Add to Wishlist functionality.
 slug: social-proof-widget
 order: 10
-status: draft
+status: published
 ---
 
 # Social Proof Widget

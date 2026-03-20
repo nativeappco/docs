@@ -5,7 +5,7 @@ seoTitle: Tag Actions | Fish Wishlist
 seoDescription: Use Tag Actions to control wishlist behaviour per product tag — rename buttons, hide prices, suppress social proof widgets, and run custom JavaScript.
 slug: tag-actions
 order: 9
-status: draft
+status: published
 ---
 
 # Tag Actions

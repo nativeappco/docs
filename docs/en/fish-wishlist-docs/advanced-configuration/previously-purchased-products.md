@@ -5,7 +5,7 @@ seoTitle: Previously Purchased Products | Fish Wishlist
 seoDescription: Automatically capture products from past orders and display them as a Buy Again list on your homepage, account page, or anywhere on your store.
 slug: previously-purchased-products
 order: 11
-status: draft
+status: published
 ---
 
 # Previously Purchased Products
