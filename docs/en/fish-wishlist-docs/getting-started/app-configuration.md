@@ -9,8 +9,6 @@ order: 1
 status: published
 ---
 
-# App Configuration
-
 Open Fish Wishlist in Shopify Admin and go to [**Settings**](https://admin.shopify.com/apps/fish-wishlist/app/settings). You can change these settings at any time.
 
 * * *

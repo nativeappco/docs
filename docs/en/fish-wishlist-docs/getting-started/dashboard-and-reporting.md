@@ -8,8 +8,6 @@ order: 0
 status: draft
 ---
 
-# Dashboard & Reporting
-
 The Fish Wishlist dashboard gives you a real-time overview of wishlist activity across your store — and because all data is stored natively in Shopify metafields, you have more reporting power than you might expect.
 
 * * *
