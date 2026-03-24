@@ -7,8 +7,6 @@ order: 4
 status: published
 ---
 
-# Enable app embeds
-
 ## **Instructions**
 
 {% stepper %}  

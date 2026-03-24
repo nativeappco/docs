@@ -7,8 +7,6 @@ order: 3
 status: published
 ---
 
-# Add app blocks to your theme
-
 ## **Instructions**
 
 {% stepper %}  

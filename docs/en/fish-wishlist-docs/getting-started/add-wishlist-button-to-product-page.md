@@ -7,8 +7,6 @@ order: 2
 status: published
 ---
 
-# Add Wishlist Button to Product Page
-
 ### Installation Options
 
 #### **Option 1: Using App Blocks (Recommended for Compatible Themes)**
