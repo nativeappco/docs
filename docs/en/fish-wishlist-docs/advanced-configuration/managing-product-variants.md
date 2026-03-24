@@ -9,8 +9,6 @@ order: 1
 status: published
 ---
 
-# Managing Product Variants
-
 Fish Wishlist stores all wishlist data at the **product variant level**, not the master product level.
 
 * * *

@@ -8,8 +8,6 @@ order: 9
 status: draft
 ---
 
-# Shopify Markets & B2B Pricing
-
 Fish Wishlist works with Shopify Markets and B2B pricing out of the box — no configuration needed.
 
 * * *
