@@ -6,8 +6,6 @@ order: 5
 status: published
 ---
 
-# Custom Styling
-
 ### **Custom Styling**
 
 In the Wishlist App Embed settings you can modify lots of the colours and styles for your Wishlist widgets:

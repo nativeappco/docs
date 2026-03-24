@@ -7,16 +7,10 @@ order: 6
 status: published
 ---
 
-# Common Issues
-
 ### When a customer Adds to Cart from Wishlist, their cart doesn't update
 
-Fish Wishlist is built to be compatible with most Shopify themes. However, in some themes, the cart does not automatically refresh when you use the Add To Cart button in the wishlist drawer.
+Fish Wishlist is built to be compatible with most Shopify themes. However, in some themes, the cart does not automatically refresh when you use the Add To Cart button in the wishlist drawer. Please [Contact Us](mailto:support@nativeappco.com) and we can apply a fix for your theme.
 
-Please [Contact Us](mailto:support@nativeappco.com) and we can apply a fix for your theme.
+### Fish Wishlist is breaking the Close button on my theme's native mini-cart
 
-### Fish Wishlist is breaking the "Close (X)" button on my theme's native mini-cart
-
-This is an issue that has been reported on some Shopify themes.
-
-Please [Contact Us](mailto:support@nativeappco.com) and we can apply a fix for your theme.
+This is an issue that has been reported on some Shopify themes. Please [Contact Us](mailto:support@nativeappco.com) and we can apply a fix for your theme.

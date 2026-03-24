@@ -7,8 +7,6 @@ order: 7
 status: published
 ---
 
-# Copy & Translations
-
 ### Instructions
 
 *   Open Fish Wishlist in Shopify Admin and go to [**Copy & Translations**](https://admin.shopify.com/apps/fish-wishlist/app/translations)
