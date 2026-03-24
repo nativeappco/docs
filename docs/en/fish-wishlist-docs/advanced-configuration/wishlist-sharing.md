@@ -9,8 +9,6 @@ order: 2
 status: published
 ---
 
-# Wishlist Sharing
-
 Allow customers to generate a shareable link to their wishlist. Great for gift registries, and a powerful tool for creating curated influencer or brand ambassador pages.
 
 * * *
@@ -34,34 +32,16 @@ Go to **Fish Wishlist > Settings** and turn on **Share Wishlist Button**. A shar
 
 ## How shared wishlists are stored
 
-Shared wishlists are stored as **Shopify Metaobjects** — natively in your Shopify admin. You can find them under **Content > Metaobjects > Shared Wishlists**.
-
-From there you can:
-
-*   View all shared wishlists across your store
-*   Edit the products in any shared list
-*   Add or remove products from the backend
+Shared wishlists are stored as **Shopify Metaobjects** — natively in your Shopify admin. You can find them under **Content > Metaobjects > Shared Wishlists**. From there you can view all shared wishlists, edit products in any shared list, and add or remove products from the backend.
 
 * * *
 
 ## Influencer & curated lists
 
-Because shared wishlists are editable metaobjects, you can use this feature to create fully curated pages — without any customer needing to create them.
-
-**Example use cases:**
-
-*   Create a celebrity or influencer wishlist by building the metaobject directly in Shopify Admin
-*   Build a seasonal "Gift Guide" page using a curated shared list
-*   Create staff picks or editorial product collections
+Because shared wishlists are editable metaobjects, you can create fully curated pages without any customer needing to create them. Create a celebrity or influencer wishlist by building the metaobject directly in Shopify Admin, build a seasonal Gift Guide page using a curated shared list, or create staff picks and editorial product collections.
 
 * * *
 
 ## Customising the shared wishlist page
 
-The shared wishlist page uses a generic grid layout by default. To customise it to match your theme, use the built-in page editor:
-
-1.  Open Fish Wishlist in Shopify Admin
-2.  Navigate to the app URL and add `/pages` to the end
-3.  Select **Shared Wishlist** to edit the page template
-
-Contact support if you'd like us to populate this with your theme's layout — we have templates ready to go.
+The shared wishlist page uses a generic grid layout by default. To customise it, open Fish Wishlist in Shopify Admin, navigate to the app URL and add `/pages` to the end, then select **Shared Wishlist** to edit the page template. Contact support if you'd like us to populate this with your theme's layout — we have templates ready to go.
