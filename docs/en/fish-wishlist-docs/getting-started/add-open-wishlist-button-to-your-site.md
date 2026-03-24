@@ -7,8 +7,6 @@ order: 5
 status: published
 ---
 
-# Add "Open Wishlist" Button to Your Site
-
 ### When to Use Manual Setup
 
 Consider manual setup for the following scenarios:

@@ -9,8 +9,6 @@ order: 7
 status: published
 ---
 
-# Checkout Upsell Widget
-
 Show customers their saved wishlist items at checkout and let them add more to their order before they pay. Good uptake, and no negative impact on checkout completion rates.
 
 * * *
