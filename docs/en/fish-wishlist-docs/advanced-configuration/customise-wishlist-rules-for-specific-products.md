@@ -7,9 +7,7 @@ order: 8
 status: published
 ---
 
-# Customise Wishlist Rules for Specific Products
-
-{% embed url="[https://www.youtube.com/watch?v=TpIeVfmW51Q](https://www.youtube.com/watch?v=TpIeVfmW51Q)" %}
+{% embed url="https://www.youtube.com/watch?v=TpIeVfmW51Q" %}
 
 * * *
 
@@ -32,20 +30,20 @@ This overrides the behavior of the "Add to Cart" button inside the wishlist draw
 *   **Rename Label**: Change the text of the button (e.g., change "Add to Cart" to "Pre-order").
 *   **Disable Button**: Keeps the button visible but makes it unclickable.
 *   **Hide Button**: Removes the button entirely from the wishlist item.
-*   **Redirect after Click**: Send the user to a specific URL (like a collection page or a custom form) after they click the button.
+*   **Redirect after Click**: Send the user to a specific URL after they click the button.
 *   **Custom JavaScript**: For advanced users who want to trigger a custom script.
 
 #### 2\. Social Proof Widget Action
 
 This affects the social proof notifications (e.g., "5 people have this in their wishlist") that appear on your product pages.
 
-*   Hide Widget: Use this to prevent the widget from showing on specific products, such as out-of-stock items or new arrivals where data might still be low.
+*   Hide Widget: Use this to prevent the widget from showing on specific products.
 
 #### 3\. Wishlist Item Action
 
 This controls elements of the wishlist item display on the product page or within the wishlist itself.
 
-*   **Hide Price**: Useful for "Price on Application" items or products where you wish to hide the cost until a specific tag is removed.
+*   **Hide Price**: Useful for "Price on Application" items or products where you wish to hide the cost.
 
 * * *
 
@@ -73,4 +71,4 @@ Choose the desired behavior from the dropdown menu (e.g., _Rename Label_).
 
 ### Need Custom Functionality?
 
-The Tag Actions system is flexible, and we frequently add new capabilities on a case-by-case basis. If you have a specific requirement—such as a different type of redirect or a unique button behavior not listed here—please [contact our support team](mailto:support@nativeappco.com) and we will be happy to assist you.
+The Tag Actions system is flexible, and we frequently add new capabilities on a case-by-case basis. If you have a specific requirement, please [contact our support team](mailto:support@nativeappco.com) and we will be happy to assist you.
