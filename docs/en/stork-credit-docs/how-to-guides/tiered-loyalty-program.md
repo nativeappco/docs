@@ -9,11 +9,13 @@ order: 7
 status: published
 ---
 
-<iframe src="https://www.youtube.com/embed/jGITvRNEg8I?modestbranding=1&amp;rel=0" class="youtube-iframe" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="true" style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; border-radius: 0.375rem;"></iframe>
-
 Build a tiered cash-back loyalty program using native Shopify customer segments, native store credit, and Stork Credit — no points, no databases, no third-party redemption portals.
 
-Shopify's built-in store credit is real monetary value that lives on the customer's account, redeemable natively at checkout, with a full transaction log and automatic notification emails included. Stork Credit handles the automation — issuing credit based on which loyalty tier a customer belongs to.
+Shopify's built-in store credit is real monetary value that lives on the customer's account, redeemable natively at checkout, with a full transaction log and automatic notification emails included.
+
+Stork Credit handles the automation — issuing credit based on rules that you create.
+
+<iframe src="https://www.youtube.com/embed/jGITvRNEg8I?modestbranding=1&amp;rel=0" class="youtube-iframe" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="true" style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; border-radius: 0.375rem;"></iframe>
 
 ## Step 1: Create customer segments
 
