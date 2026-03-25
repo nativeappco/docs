@@ -5,7 +5,7 @@ seoTitle: Build a Loyalty Program with Native Shopify Store Credit | Stork Credi
 seoDescription: Learn why native Shopify store credit is the best foundation for a tiered loyalty program — no points, no databases, no drama. Powered by Stork Credit.
 slug: loyalty-program-with-native-store-credit
 order: 8
-status: draft
+status: published
 ---
 
 {% youtube "[https://youtu.be/jGITvRNEg8I](https://youtu.be/jGITvRNEg8I)" %}
