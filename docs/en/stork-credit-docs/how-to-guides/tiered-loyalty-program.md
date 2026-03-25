@@ -1,6 +1,7 @@
 ---
 type: page
 title: Tiered Loyalty Program with Store Credit
+description: Build a tiered cash-back loyalty program using native Shopify customer segments, native store credit, and Stork Credit — no points, no databases, no third-party redemption portals.
 seoTitle: Tiered Loyalty Program with Native Store Credit | Stork Credit
 seoDescription: Set up a multi-tiered loyalty program in Shopify using native customer segments and Stork Credit automatic store credit. No points, no databases.
 slug: tiered-loyalty-program
@@ -8,7 +9,7 @@ order: 7
 status: published
 ---
 
-{% youtube "[https://youtu.be/jGITvRNEg8I](https://youtu.be/jGITvRNEg8I)" %}
+<iframe src="https://www.youtube.com/embed/jGITvRNEg8I?modestbranding=1&amp;rel=0" class="youtube-iframe" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="true" style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; border-radius: 0.375rem;"></iframe>
 
 Build a tiered cash-back loyalty program using native Shopify customer segments, native store credit, and Stork Credit — no points, no databases, no third-party redemption portals.
 
@@ -18,7 +19,9 @@ Shopify's built-in store credit is real monetary value that lives on the custome
 
 In Shopify admin go to **Customers → Segments** and create three segments. Sidekick can generate the queries for you. Make each segment mutually exclusive so a customer only qualifies for one tier at a time.
 
-Tier
+<colgroup><col style="min-width: 25px;"><col style="min-width: 25px;"><col style="min-width: 25px;"></colgroup>
+
+Example Tier
 
 Segment name
 
@@ -42,27 +45,33 @@ Gold Loyalty
 
 $1,000+
 
-Add a marketing opt-in condition to each segment, then save.
+Optional: Add a marketing opt-in condition to each segment, then save.
 
-## Step 2: Set up automatic store credit
+## Step 2: Set up Automatic Store Credit
 
-In Stork Credit go to **Automatic Store Credit → Browse Templates** and select the _3% store credit rewards_ template.
+In [Stork Credit](http://admin.shopify.com/apps/stork-credit) go to **Automatic Store Credit → Browse Templates** and select the _3% store credit rewards_ template.
 
 *   Set your reward rate per tier (e.g. Bronze 3%, Silver 5%, Gold 7%)
+    
 *   Under **Eligibility**, choose _Specific customer segment_ and select the matching segment
+    
 *   Save and activate
+    
 
-Repeat for each tier. Stork Credit will always apply the best-value promotion if a customer somehow qualifies for more than one.
+Repeat for each tier. Stork Credit will apply the best-value promotion if a customer somehow qualifies for more than one (unless you change this in app settings).
 
 ## Step 3: Add the checkout widget
 
-In your Shopify theme editor, add the Stork Credit app block to checkout. This shows customers how much credit they'll earn before they pay — a simple but effective conversion nudge.
+In your Shopify checkout editor, add the Stork Credit app block to checkout. This shows customers how much credit they'll earn before they pay — a simple but effective conversion nudge.
 
 ## How it works for customers
 
 *   Credit is issued automatically after each qualifying order
+    
 *   Shopify sends a native store credit email notification
+    
 *   Customers redeem by ticking the store credit option in the checkout payment section
+    
 
 ## Advanced: delay issuance with Shopify Flow
 
