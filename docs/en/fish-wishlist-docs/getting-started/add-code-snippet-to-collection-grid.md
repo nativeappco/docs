@@ -7,11 +7,11 @@ order: 6
 status: published
 ---
 
+You can easily add this Add to Wishlist button anywhere on your site, including on product grid items, in your cart or on your product page.
+
 Our snippet can be used with any search/filter provider such as Algolia, SearchSpring or Boost.
 
-{% hint style="info" %}  
-This requires some edits to your theme code. If you need help, please [Contact Us](https://app.gitbook.com/u/ORl9VeaRJSOs4nsMpInXf0lzgvu2).  
-{% endhint %}
+<aside><p>This requires some edits to your theme code. If you need help, please <a target="_blank" rel="noopener noreferrer nofollow" class="tiptap-link" href="https://app.gitbook.com/u/ORl9VeaRJSOs4nsMpInXf0lzgvu2">Contact Us</a>.</p></aside>
 
 ## Instructions
 
