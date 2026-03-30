@@ -6,7 +6,7 @@ seoTitle: Product Pelican overview and audit workflows
 seoDescription: Learn how Product Pelican audits product data, suggests fixes for titles, descriptions, alt text, and categories, and saves updates.
 slug: product-pelican
 order: 0
-status: draft
+status: published
 ---
 
 ## What Product Pelican does
