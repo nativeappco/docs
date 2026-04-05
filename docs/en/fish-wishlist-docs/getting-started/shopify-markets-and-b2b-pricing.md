@@ -4,8 +4,8 @@ title: Shopify Markets & B2B Pricing
 seoTitle: Shopify Markets & B2B Pricing | Fish Wishlist
 seoDescription: Fish Wishlist works automatically with Shopify Markets and B2B price lists. No configuration needed — correct pricing and language are applied automatically.
 slug: shopify-markets-and-b2b-pricing
-order: 9
-status: draft
+order: 11
+status: published
 ---
 
 Fish Wishlist works with Shopify Markets and B2B pricing out of the box — no configuration needed.
