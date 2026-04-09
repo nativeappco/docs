@@ -9,7 +9,7 @@ order: 1
 status: published
 ---
 
-<m-info><p>Need help from a real person? Email <a target="_blank" rel="noopener noreferrer" class="tiptap-link" href="mailto:storkcredit@nativeappco.com ">storkcredit@nativeappco.com</a></p></m-info>
+<m-info><p>Need help from a real person? Email <a target="_blank" rel="noopener noreferrer" class="tiptap-link" href="mailto:storkcredit@nativeappco.com ">storkcredit@nativeappco.com</a></p><p></p></m-info>
 
 ## Introduction to Stork Credit
 
