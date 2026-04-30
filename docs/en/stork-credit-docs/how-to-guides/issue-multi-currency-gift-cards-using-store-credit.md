@@ -9,7 +9,7 @@ order: 0
 status: published
 ---
 
-## Use Store Credit to issue Gift Cards in multiple currencies
+<iframe src="https://www.youtube.com/embed/kEX0KshTEHw?modestbranding=1&amp;rel=0" class="youtube-iframe" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="true" style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; border-radius: 0.375rem;"></iframe>
 
 Shopify gift cards have an important limitation with Shopify Markets: when a gift card is sold, its value ultimately ties back to your store's master currency. That means the value a customer receives can shift between the time the gift card is purchased and the time it is redeemed.
 
