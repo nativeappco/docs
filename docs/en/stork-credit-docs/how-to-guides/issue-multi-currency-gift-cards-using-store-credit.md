@@ -6,14 +6,23 @@ seoTitle: Multi-currency gift cards with Stork Credit
 seoDescription: Use Stork Credit instead of Shopify gift cards for Shopify Markets so customers redeem credit in the correct currency.
 slug: issue-multi-currency-gift-cards-using-store-credit
 order: 0
-status: draft
+status: published
 ---
 
-## Why use store credit instead of Shopify gift cards?
+## Use Store Credit to issue Gift Cards in multiple currencies
 
 Shopify gift cards have an important limitation with Shopify Markets: when a gift card is sold, its value ultimately ties back to your store's master currency. That means the value a customer receives can shift between the time the gift card is purchased and the time it is redeemed.
 
 Stork Credit solves this by issuing **store credit in the currency of the order**. If a customer buys the gift card product in AUD, you can issue AUD store credit. If they buy the same product in USD through a market with local pricing, you can issue USD store credit instead.
+
+## Best use case for this workflow
+
+This setup is a strong fit if you:
+
+*   Sell internationally with **Shopify Markets**
+    
+*   Want customers to receive gift cards in their purchase currency
+    
 
 <m-info><p>This walkthrough demonstrates replacing a traditional gift card code with store credit, so the customer redeems the correct value in their own currency at checkout.</p></m-info>
 
@@ -71,18 +80,7 @@ By default, you can rely on Shopify's store credit notification template, but ma
 
 You can connect an email platform such as **Klaviyo** to send a more customer-friendly email after the credit is issued.
 
-<m-note><p>This is especially useful if you want branded gifting emails, scheduled sends, or custom messaging for the sender and recipient.</p></m-note>
-
-## Best use case for this workflow
-
-This setup is a strong fit if you:
-
-*   sell internationally with **Shopify Markets**
-    
-*   want customers to receive a fixed value in their purchase currency
-    
-*   need a better alternative to Shopify gift cards for multi-currency stores
-    
+<m-note><p>This is especially useful if you want branded gifting emails, scheduled sends, or custom messaging for the sender and recipient.</p><h2></h2></m-note>
 
 ## Need help?
 
