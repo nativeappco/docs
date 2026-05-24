@@ -6,7 +6,7 @@ seoTitle: View product FAQs in Shopify admin
 seoDescription: See Product Pelican FAQs on any Shopify product page and use the Edit FAQs link to jump straight to the Product FAQ screen.
 slug: view-product-faqs-in-shopify-admin
 order: 0
-status: draft
+status: published
 ---
 
 ## See a product's FAQs without leaving Shopify admin
