@@ -6,7 +6,7 @@ seoTitle: Product Stitching in Product Pelican
 seoDescription: Learn how to create Product Stitching rules in Product Pelican using regex to link colour variants, complementary products, and sets.
 slug: product-stitching
 order: 0
-status: draft
+status: published
 ---
 
 ## Automate related product links with Product Stitching
@@ -15,24 +15,26 @@ status: draft
 
 In Product Pelican, stitching rules match products using either **SKU** or **Title**. Matching is driven by a **Regex pattern**, which extracts a shared value from each product so matching items can be grouped together.
 
-<m-info>Product Stitching sits in the left navigation under <strong>Product Pelican</strong> as <strong>Stitching</strong>, alongside <strong>Dashboard</strong>, <strong>Product FAQ</strong>, <strong>AI Prompts</strong>, <strong>Settings</strong>, and <strong>Plans</strong>.</m-info><m-frame><img src="https://cdn.heymantle.com/orgs/26a47f7d-a3b9-42a0-97fc-a4835cc43fbe/docs-pages/video-frames/5e399cd8-a697-4bf5-a9d9-8712d250aa81/frame_001.jpg" alt="Product Stitching dashboard showing active rules, totals, search, and existing stitching rules"></m-frame>
+<m-info><p>Product Stitching sits in the left navigation under <strong>Product Pelican</strong> as <strong>Stitching</strong>, alongside <strong>Dashboard</strong>, <strong>Product FAQ</strong>, <strong>AI Prompts</strong>, <strong>Settings</strong>, and <strong>Plans</strong>.</p></m-info><m-frame><p><img class="tiptap-image" src="https://cdn.heymantle.com/orgs/26a47f7d-a3b9-42a0-97fc-a4835cc43fbe/docs-pages/video-frames/5e399cd8-a697-4bf5-a9d9-8712d250aa81/frame_001.jpg" alt="Product Stitching dashboard showing active rules, totals, search, and existing stitching rules"></p></m-frame>
 
 ## Start on the Product Stitching dashboard
 
 The main **Product Stitching** page gives you a quick view of how your rules are performing. At the top of the screen, the dashboard shows:
 
 *   **Active Rules**
+    
 *   **Total Groups**
+    
 *   **Products Stitched**
+    
 *   **Last Sync**
+    
 
 Below the totals, you can filter the list using **All**, **Active**, and **Paused**, and narrow the list with **Search rules**.
 
 Each rule card shows the rule name, its status such as **Active**, the match source such as **SKU**, the regex pattern, the target metafield, the group and stitched counts, whether **Auto-sync** is enabled, and a **Sync** action for running the rule.
 
-In the walkthrough, the dashboard includes rules like **Pair it With** and **Related Products- matched by SKU**.
-
-<m-tip>If you plan to build several stitching rules, start by deciding which product relationship each target metafield should power. For example, keep alternate colours, complementary products, and set-building rules separate so each one writes to the right storefront field.</m-tip>
+<m-tip><p>If you plan to build several stitching rules, start by deciding which product relationship each target metafield should power. For example, keep alternate colours, complementary products, and set-building rules separate so each one writes to the right metafield. You can't create multiple stitching rules that right to the same metafield.</p></m-tip>
 
 ## Open a rule to review how it works
 
@@ -41,40 +43,53 @@ Select a rule to open its detail page. The walkthrough opens **Pair it With**, w
 The rule page is split into clear sections:
 
 *   **RULE** for the current setup
+    
 *   **STATS** for stitched counts and sync timing
+    
 *   **GROUPS** for the matched product groups
+    
 *   **DRY RUN** for testing the rule before writing metafields
+    
 *   **RECENT ACTIVITY** for the latest events
+    
 
 At the top-right of the page, the available actions are **Delete**, **Pause**, **Edit rule**, and **Bulk sync**.
 
-<m-frame><img src="https://cdn.heymantle.com/orgs/26a47f7d-a3b9-42a0-97fc-a4835cc43fbe/docs-pages/video-frames/0db0266f-2ea5-4e46-a379-f08905c019ec/frame_002.jpg" alt="Pair it With rule page showing rule setup, stats, dry run, and recent activity"></m-frame>
+<m-frame><p><img class="tiptap-image" src="https://cdn.heymantle.com/orgs/26a47f7d-a3b9-42a0-97fc-a4835cc43fbe/docs-pages/video-frames/0db0266f-2ea5-4e46-a379-f08905c019ec/frame_002.jpg" alt="Pair it With rule page showing rule setup, stats, dry run, and recent activity"></p></m-frame>
 
 ### What the rule page shows
 
 In the **RULE** section, Product Pelican displays:
 
 *   **Match type**, such as **SKU** or **Regex on SKU**
+    
 *   **Pattern**
+    
 *   **Target metafield**
+    
 *   **Auto-sync on publish**
+    
 
 The **STATS** panel shows values such as:
 
 *   **Products stitched**
+    
 *   **Groups**
+    
 *   **Avg group size**
+    
 *   **Last sync**
+    
 
 The **DRY RUN** panel includes **Run preview**, which lets you test changes against the catalogue without writing metafields yet.
 
-<m-note>Use <strong>Run preview</strong> before a live sync whenever you change the regex pattern or swap the target metafield. It is the safest way to confirm which products will be grouped.</m-note>
+<m-note><p>Use <strong>Run preview</strong> before a live sync whenever you change the regex pattern or swap the target metafield. It is the safest way to confirm which products will be grouped.</p></m-note>
 
 ## Edit the rule settings
 
 From the rule detail page, click **Edit rule** to update how the rule matches products and where it writes the result.
 
-<m-frame><img src="https://cdn.heymantle.com/orgs/26a47f7d-a3b9-42a0-97fc-a4835cc43fbe/docs-pages/video-frames/a3953c61-35d6-4494-a5c5-e3c06fa984f0/frame_003.jpg" alt="Edit rule screen showing rule name, match options, regex pattern, and target metafield settings"></m-frame>
+<m-frame><p><img class="tiptap-image" src="https://cdn.heymantle.com/orgs/26a47f7d-a3b9-42a0-97fc-a4835cc43fbe/docs-pages/video-frames/a3953c61-35d6-4494-a5c5-e3c06fa984f0/frame_003.jpg" alt="Edit rule screen showing rule name, match options, regex pattern, and target metafield settings"></p></m-frame>
 
 The edit screen includes two main sections: **RULE DETAILS** and **TARGET**.
 
@@ -83,20 +98,26 @@ The edit screen includes two main sections: **RULE DETAILS** and **TARGET**.
 In **RULE DETAILS**, you can set:
 
 *   **Rule name**
+    
 *   **Match against**
+    
 *   **Regex pattern**
+    
 
 For **Match against**, the walkthrough shows these options:
 
 *   **SKU**
+    
 *   **Title**
+    
 *   **Tag** _soon_
+    
 
 When matching by SKU, Product Pelican tests each product's primary variant SKU against your regex. When matching by title, it uses the product title instead.
 
 Next to **Regex pattern**, there is a **Suggest with AI** button. The screen also validates the pattern and shows confirmation such as **Valid regex - capture group detected**.
 
-<m-warning>Your regex must include a capture group. Product Pelican uses the captured value as the group key, and products with the same key are stitched together.</m-warning>
+<m-warning><p>Your regex must include a capture group. Product Pelican uses the captured value as the group key, and products with the same key are stitched together.</p></m-warning>
 
 ### Target
 
@@ -111,10 +132,13 @@ The right regex depends on how your catalogue is structured. A good pattern remo
 Common examples include:
 
 *   Removing a colour name from product titles so different colour variants group together
+    
 *   Matching products using the number that appears before the first hyphen in the SKU
+    
 *   Extracting a shared style code from the start of the SKU
+    
 
-<m-tip>If you need help writing a regex, use an AI tool such as Gemini or ChatGPT and describe exactly what you want. For example: <code>remove the colour name from my product titles using regex</code> or <code>match products using the number that appears before the first hyphen in the SKU</code>.</m-tip>
+<m-tip><p>If you need help writing a regex, use an AI tool such as Gemini or ChatGPT and describe exactly what you want. For example: <code>remove the colour name from my product titles using regex</code> or <code>match products using the number that appears before the first hyphen in the SKU</code>.</p></m-tip>
 
 ## Save the updated rule
 
@@ -129,7 +153,9 @@ If you do not want to keep the edits, use **Cancel**.
 Once the rule is saved, return to the rule detail page and test it. Product Pelican supports both a preview and a live sync:
 
 *   **Run preview** in the **DRY RUN** panel to see what the rule would produce
+    
 *   **Bulk sync** to write the stitched relationships to the selected metafield
+    
 
 When a sync is queued, the page can show a status banner such as **Bulk sync pending**, explaining that the cron picks up pending runs every minute.
 
@@ -137,44 +163,39 @@ When a sync is queued, the page can show a status banner such as **Bulk sync pen
 
 After the sync completes, the rule page updates with live stats and the generated groups.
 
-<m-frame><img src="https://cdn.heymantle.com/orgs/26a47f7d-a3b9-42a0-97fc-a4835cc43fbe/docs-pages/video-frames/d266ce74-85e0-4f53-9bd2-e434b55c03e9/frame_005.jpg" alt="Rule detail page showing stitched products, groups created, and recent sync activity"></m-frame>
-
-In the walkthrough, the updated rule page shows:
-
-*   **Products stitched**
-*   **Groups**
-*   **Avg group size**
-*   **Last sync**
-
-The **GROUPS** section expands to show the matched group key and the products inside that group. This is where you confirm that the expected products were stitched together.
-
-The **DRY RUN** panel also summarizes the last scan, including counts such as scanned products, groups created, and unmatched products.
-
-On the right side, **RECENT ACTIVITY** logs important milestones such as **Bulk sync complete**, **Group synced**, and **Rule updated**.
-
-<m-note>If the group looks too broad or too narrow, go back to <strong>Edit rule</strong>, adjust the <strong>Regex pattern</strong>, run another preview, and sync again.</m-note>
+<m-frame><p><img class="tiptap-image" src="https://cdn.heymantle.com/orgs/26a47f7d-a3b9-42a0-97fc-a4835cc43fbe/docs-pages/video-frames/d266ce74-85e0-4f53-9bd2-e434b55c03e9/frame_005.jpg" alt="Rule detail page showing stitched products, groups created, and recent sync activity"></p><p></p></m-frame><m-note><p>If the group looks too broad or too narrow, go back to <strong>Edit rule</strong>, adjust the <strong>Regex pattern</strong>, run another preview, and sync again.</p></m-note>
 
 ## Check the rule logs
 
 For a fuller event history, open the logs view for the rule. In the walkthrough, the page title is **Logs: Pair it With**.
 
-<m-frame><img src="https://cdn.heymantle.com/orgs/26a47f7d-a3b9-42a0-97fc-a4835cc43fbe/docs-pages/video-frames/54bcb6c9-36e8-4e10-a16f-ae406285a332/frame_006.jpg" alt="Logs page for a Product Stitching rule showing sync and update events"></m-frame>
+<m-frame><p><img class="tiptap-image" src="https://cdn.heymantle.com/orgs/26a47f7d-a3b9-42a0-97fc-a4835cc43fbe/docs-pages/video-frames/54bcb6c9-36e8-4e10-a16f-ae406285a332/frame_006.jpg" alt="Logs page for a Product Stitching rule showing sync and update events"></p></m-frame>
 
 The logs table includes these columns:
 
 *   **TIME**
+    
 *   **ACTION**
+    
 *   **GROUP**
+    
 *   **PRODUCTS**
+    
 *   **DETAIL**
+    
 
 Typical events include:
 
 *   **Sync complete**
+    
 *   **Group synced**
+    
 *   **Rule updated**
+    
 *   **Sync started**
+    
 *   **Rule created**
+    
 
 Use this screen to confirm what happened during a run, when it happened, and how many products were affected.
 
@@ -185,9 +206,14 @@ Use this screen to confirm what happened during a run, when it happened, and how
 ## Best practices for cleaner matches
 
 *   Use **SKU** matching when your catalogue has consistent SKU structure.
+    
 *   Use **Title** matching when titles are more reliable than SKUs.
+    
 *   Keep one rule focused on one relationship type, such as alternate colours or complementary products.
+    
 *   Always test with **Run preview** before a live sync after changing the pattern.
+    
 *   Review unmatched product counts after a dry run to spot gaps in your regex.
+    
 
-<m-warning>If you point a rule at the wrong target metafield, the stitched relationships may show in the wrong storefront feature. Double-check the <strong>Metafield</strong> before saving.</m-warning>
+<m-warning><p>If you point a rule at the wrong target metafield, the stitched relationships may show in the wrong storefront feature. Double-check the <strong>Metafield</strong> before saving.</p></m-warning>
