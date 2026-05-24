@@ -6,7 +6,7 @@ seoTitle: Bulk generate product FAQs in Product Pelican
 seoDescription: Bulk generate, reuse, edit, and import product FAQs in Product Pelican. Assign FAQs to multiple products and manage them from one workflow.
 slug: set-up-product-faqs
 order: 0
-status: draft
+status: published
 ---
 
 ## Bulk generate and manage product FAQs
