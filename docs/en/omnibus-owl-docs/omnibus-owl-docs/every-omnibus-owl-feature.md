@@ -6,7 +6,7 @@ seoTitle: Omnibus Owl settings and features
 seoDescription: Explore every Omnibus Owl setting, from compliance widgets to Auto Compare At Price, auto tagging, translations, and Price Insights.
 slug: every-omnibus-owl-feature
 order: 0
-status: draft
+status: published
 ---
 
 ## Omnibus Owl at a glance
