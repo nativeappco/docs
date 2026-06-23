@@ -107,10 +107,6 @@ When you are happy with the setup, click **Save Ruleset**. Product Pelican shows
 
 To change a ruleset later, click **Edit** on its card. The form reopens with every field pre-filled, for example **Edit: New Products**, so you can adjust the sort rule, tags, stock options, schedule, or collections and save again.
 
-## Typical Merchandise Rulesets workflow
-
-<m-steps><m-step title="Open Rulesets"><p>In the Shopify admin, go to <strong>Product Pelican</strong> and select <strong>Rulesets</strong>.</p></m-step><m-step title="Create a ruleset"><p>Click <strong>New Ruleset</strong> and give it a clear <strong>Ruleset name</strong>.</p></m-step><m-step title="Choose a sort rule"><p>In <strong>SORT</strong>, pick a <strong>Sort by</strong> rule and set the <strong>Direction</strong>.</p></m-step><m-step title="Add promote or demote rules"><p>Use <strong>Add rule...</strong> to promote products by tag, such as <strong>featured</strong>.</p></m-step><m-step title="Set stock and visibility"><p>Turn on <strong>Push out of stock to bottom</strong> and <strong>Push products without images to bottom</strong>.</p></m-step><m-step title="Set the schedule"><p>Choose <strong>Not scheduled</strong> or an interval such as <strong>Every 24 hours</strong>.</p></m-step><m-step title="Assign collections"><p>Tick the collections the ruleset should sort.</p></m-step><m-step title="Set the default if needed"><p>Optionally make this the default ruleset for unassigned collections.</p></m-step><m-step title="Save"><p>Click <strong>Save Ruleset</strong> and confirm the <strong>Saved</strong> message.</p></m-step></m-steps>
-
 ## Where the data is stored
 
 Every ruleset is saved as a native Shopify **Metaobject**, written and owned by Product Pelican. You manage rulesets from inside the app, but it is worth knowing where the underlying data lives. You will find it in the Shopify admin under **Content > Metaobjects > Merchandise Ruleset**.
@@ -120,6 +116,21 @@ Each ruleset is a single entry. The list shows the **Display name**, the ruleset
 Open an entry to see the stored fields: **Name**, **Rules** (the sort, promote, and demote logic stored as JSON), **Schedule**, **Is Default**, **Last Run**, and the assigned **Collections**, along with the metaobject **Handle**.
 
 <m-note><p>You can edit these fields directly in the Shopify admin if you ever need to, but in day-to-day use you should manage everything from the <strong>Rulesets</strong> screen in Product Pelican. The app keeps the metaobject in sync for you. This is the Native way: your data stays in your own Shopify store, in a structure you can read, export, and own.</p></m-note>
+
+## How Product Pelican modifies your collections
+
+When you create rulesets, Product Pelican uses these rules to update the sorting of your Collections in Shopify.
+
+We make 2 edits to your collection data:
+
+*   Change Sorting to Manual
+    
+*   Update the order of products
+    
+
+![CleanShot 2026-06-23 at 14.16.43@2x](https://cdn.heymantle.com/orgs/26a47f7d-a3b9-42a0-97fc-a4835cc43fbe/assets/471630a3-503c-4493-aa85-c85ec2a3a96d/CleanShot_2026-06-23_at_14.16.43_2x.png)
+
+When you remove a ruleset from a collection or uninstall Product Pelican, the sorting will stop updating automatically and you can modify the sort order in Shopify however you wish.
 
 ## Best practices
 
