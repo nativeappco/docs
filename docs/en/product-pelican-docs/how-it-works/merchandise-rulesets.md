@@ -8,7 +8,9 @@ order: 0
 status: published
 ---
 
-## Automate collection sorting with Merchandise Rulesets
+## Automate Shopify Collection sorting with Merchandise Rulesets
+
+ <video controls="" width="100%"><source src="https://cdn.shopify.com/videos/c/o/v/4cf014392de647a0909c4ab1eb3d9399.mp4" type="video/mp4"> Your browser does not support the video tag.</video>
 
 **Merchandise Rulesets** let you decide how products are ordered inside your collections, then apply that order automatically on a schedule. A ruleset combines a **sort rule**, optional **promote and demote** rules, **stock and visibility** controls, and a **schedule**, and you assign it to one or more collections.
 
