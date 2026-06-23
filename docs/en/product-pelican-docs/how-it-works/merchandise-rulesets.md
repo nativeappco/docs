@@ -14,8 +14,6 @@ status: published
 
 Every ruleset you create is stored as a native Shopify **Metaobject**, so the data lives in your own store rather than locked away in an external database.
 
-<m-info><p>Merchandise Rulesets sit in the left navigation under <strong>Product Pelican</strong> as <strong>Rulesets</strong>, alongside <strong>Products</strong>, <strong>Collections</strong>, <strong>GEO Score</strong>, <strong>Product FAQ</strong>, <strong>AI Prompts</strong>, <strong>Stitching</strong>, <strong>Settings</strong>, and <strong>Plans</strong>.</p></m-info><m-frame><p><img class="tiptap-image" src="https://REPLACE-IN-EDITOR/01-rulesets-list.jpg" alt="Merchandise Rulesets list showing the Standard and All Products rulesets with schedule, collection count, and last run"></p></m-frame>
-
 ## Start on the Rulesets list
 
 The main **Merchandise Rulesets** page lists every ruleset you have created. The banner at the top reminds you what rulesets do: they define how collections are sorted, you assign them to collections, and you can optionally schedule automatic re-sorts.
@@ -41,9 +39,11 @@ To build a new one, click **New Ruleset** in the top right.
 
 Give the ruleset a clear **Ruleset name** so you can recognise it later, for example **New Products**.
 
-<m-frame><p><img class="tiptap-image" src="https://REPLACE-IN-EDITOR/02-new-ruleset-sort.jpg" alt="New Ruleset form with Sort by set to Publish date and Direction set to Newest first"></p></m-frame>
+![image](https://cdn.heymantle.com/orgs/26a47f7d-a3b9-42a0-97fc-a4835cc43fbe/assets/057733b5-8b99-43a7-8476-30a2dfb00fc0/image.png)
 
 In the **SORT** section, open **Sort by** to choose the rule that orders products in the collection. It starts on **No sort rule**. When you pick a rule such as **Publish date**, a **Direction** dropdown appears so you can set the order, for example **Newest first**.
+
+![image](https://cdn.heymantle.com/orgs/26a47f7d-a3b9-42a0-97fc-a4835cc43fbe/assets/7cbfbdd4-5aa4-45d6-969d-0bb793943a4e/image.png)
 
 <m-tip><p>The sort rule is the backbone of the ruleset. Promote, demote, and stock rules all adjust the order on top of this baseline, so set your sort rule first.</p></m-tip>
 
@@ -51,15 +51,15 @@ In the **SORT** section, open **Sort by** to choose the rule that orders product
 
 The **PROMOTE & DEMOTE** section starts empty with **No rules added yet**. Open **Add rule...** to add one.
 
-<m-frame><p><img class="tiptap-image" src="https://REPLACE-IN-EDITOR/03-promote-by-tag.jpg" alt="Promote by tag rule with the value set to featured"></p></m-frame>
-
 When you add a **Promote by tag** rule, a **PROMOTE BY TAG** block appears with a **Value** field. Start typing and Product Pelican suggests existing product tags from your store, so you can pick one such as **featured**. Products carrying that tag are lifted towards the top of the collection.
+
+You can also promote and demote products by **Metafield** or **Vendor**:
 
 To remove a rule, use the red **✕** next to its block.
 
-<m-note><p>The tag value matches the product tags already on your products. If a promote rule does nothing, check that the tag is spelled exactly as it appears on your products in Shopify.</p></m-note>
+<m-note><p>The tag value matches the product tags already on your products. If a promote rule does nothing, check that the tag, metafield or vendor is spelled exactly as it appears on your products in Shopify.</p></m-note>
 
-## Push out-of-stock and image-less products down
+## Push out-of-stock and imageless products down
 
 The **STOCK & VISIBILITY** section has two toggles that keep weaker products out of the way:
 
@@ -68,7 +68,7 @@ The **STOCK & VISIBILITY** section has two toggles that keep weaker products out
 *   **Push products without images to bottom** moves products with no image to the end.
     
 
-<m-frame><p><img class="tiptap-image" src="https://REPLACE-IN-EDITOR/04-stock-schedule.jpg" alt="Stock and visibility toggles enabled, with the schedule set to Every 24 hours"></p></m-frame><m-tip><p>Turning both of these on is a quick win for almost any collection. Shoppers rarely want to land on a sold-out product or one with no photo, and it costs you nothing to push them down.</p></m-tip>
+<m-tip><p>Turning both of these on is a quick win for almost any collection. Shoppers rarely want to land on a sold-out product or one with no photo, and it costs you nothing to push them down.</p></m-tip>
 
 ## Set the schedule
 
@@ -105,8 +105,6 @@ If another ruleset is already the default, Product Pelican warns you before you 
 
 When you are happy with the setup, click **Save Ruleset**. Product Pelican shows a **Saved** confirmation and returns you to the list, where your new ruleset now appears with its collection count.
 
-<m-frame><p><img class="tiptap-image" src="https://REPLACE-IN-EDITOR/06-saved-list.jpg" alt="Rulesets list after saving, now showing the new New Products ruleset"></p></m-frame>
-
 To change a ruleset later, click **Edit** on its card. The form reopens with every field pre-filled, for example **Edit: New Products**, so you can adjust the sort rule, tags, stock options, schedule, or collections and save again.
 
 ## Typical Merchandise Rulesets workflow
@@ -117,13 +115,11 @@ To change a ruleset later, click **Edit** on its card. The form reopens with eve
 
 Every ruleset is saved as a native Shopify **Metaobject**, written and owned by Product Pelican. You manage rulesets from inside the app, but it is worth knowing where the underlying data lives. You will find it in the Shopify admin under **Content > Metaobjects > Merchandise Ruleset**.
 
-<m-frame><p><img class="tiptap-image" src="https://REPLACE-IN-EDITOR/07-metaobject-entries.jpg" alt="Merchandise Ruleset metaobject entries listed in the Shopify admin"></p></m-frame>
-
 Each ruleset is a single entry. The list shows the **Display name**, the ruleset **Name**, its **Schedule**, whether it **Is Default**, the **Last Run**, who added it, and when it was updated.
 
 Open an entry to see the stored fields: **Name**, **Rules** (the sort, promote, and demote logic stored as JSON), **Schedule**, **Is Default**, **Last Run**, and the assigned **Collections**, along with the metaobject **Handle**.
 
-<m-frame><p><img class="tiptap-image" src="https://REPLACE-IN-EDITOR/08-metaobject-detail.jpg" alt="A Merchandise Ruleset metaobject entry showing the Name, Rules JSON, Schedule, Is Default, Last Run, and Collections fields"></p></m-frame><m-note><p>You can edit these fields directly in the Shopify admin if you ever need to, but in day-to-day use you should manage everything from the <strong>Rulesets</strong> screen in Product Pelican. The app keeps the metaobject in sync for you. This is the Native way: your data stays in your own Shopify store, in a structure you can read, export, and own.</p></m-note>
+<m-note><p>You can edit these fields directly in the Shopify admin if you ever need to, but in day-to-day use you should manage everything from the <strong>Rulesets</strong> screen in Product Pelican. The app keeps the metaobject in sync for you. This is the Native way: your data stays in your own Shopify store, in a structure you can read, export, and own.</p></m-note>
 
 ## Best practices
 
