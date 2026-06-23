@@ -5,7 +5,7 @@ seoTitle: Merchandise Rulesets in Product Pelican
 seoDescription: Create Merchandise Rulesets in Product Pelican to sort collections automatically, promote or demote products by tag, push out-of-stock and image-less products down, and schedule re-sorts.
 slug: merchandise-rulesets
 order: 0
-status: draft
+status: published
 ---
 
 ## Automate collection sorting with Merchandise Rulesets
