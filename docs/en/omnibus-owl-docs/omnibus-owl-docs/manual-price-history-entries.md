@@ -25,29 +25,34 @@ In Omnibus Owl, you can first locate the product from the **Dashboard** using th
 
 <m-note>Omnibus Owl may also refer to this storefront disclosure as the <strong>Price history</strong> or lowest-price widget. The manual editing area shown in the product-side block is labeled <strong>Price history</strong> in the UI.</m-note><m-frame><img src="https://cdn.heymantle.com/orgs/26a47f7d-a3b9-42a0-97fc-a4835cc43fbe/docs-pages/68d69096-9c4d-48ab-8fbe-29c163410f5e/image__18_.png" alt="Omnibus Owl Product Price History block showing Market, Date, Time, Price, Add entry, and edit and delete controls"></m-frame>
 
+## Add entries from the admin Dashboard
+
+You can also add a manual entry without leaving the app, straight from the **Dashboard**. Use the **Search variants...** field to find the variant, then click its row to open the **Price history** modal.
+
+In the modal, choose the right **Market** at the top, then fill in the two fields and save:
+
+*   **Date & time** - the date and time the price took effect
+*   **Price** - the price for that moment, in the selected market currency
+
+Click **Add entry** and the record appears in the list below, tagged **Manual** so it is easy to tell apart from automatically tracked changes. Each row has a trash icon if you need to remove it. To correct an entry, delete it and add a new one with the right values.
+
 ## Add a manual price history entry
 
-<m-steps><m-step title="Open the product's Price history block"><p>Go to the product you want to update and find the <strong>Price history</strong> block shown alongside that product.</p></m-step><m-step title="Choose the market"><p>Use the <strong>Market</strong> dropdown to select the correct storefront market, such as <strong>United States (US)</strong>. Manual entries are market-specific, so make sure you are updating the same market customers will shop in.</p></m-step><m-step title="Review the current lowest price"><p>At the top of the block, Omnibus Owl shows the current summary, such as <strong>Lowest price (last 30 days)</strong> and the date and time of that lowest price. Review this first so you understand how your manual entry may affect the displayed history.</p></m-step><m-step title="Enter the historical price change"><p>Fill in the three input fields:</p><ul><li><strong>Date</strong> — enter the date of the price event</li><li><strong>Time</strong> — enter the time the price took effect</li><li><strong>Price</strong> — enter the product price for that moment in the selected market currency</li></ul></m-step><m-step title="Click Add entry"><p>Select <strong>Add entry</strong> to save the manual price edit. The new row will appear in the list below the form with its timestamp and price.</p></m-step></m-steps>
+<m-steps><m-step title="Open the product's Price history block"><p>Go to the product you want to update and find the <strong>Price history</strong> block shown alongside that product.</p></m-step><m-step title="Choose the market"><p>Use the <strong>Market</strong> dropdown to select the correct storefront market, such as <strong>United States (US)</strong>. Manual entries are market-specific, so make sure you are updating the same market customers will shop in.</p></m-step><m-step title="Review the current lowest price"><p>At the top of the block, Omnibus Owl shows the current summary, such as <strong>Lowest price (last 30 days)</strong> and the date and time of that lowest price. Review this first so you understand how your manual entry may affect the displayed history.</p></m-step><m-step title="Enter the historical price change"><p>Fill in the input fields:</p><ul><li><strong>Date &amp; time</strong> - the date and time the price took effect</li><li><strong>Price</strong> - the product price for that moment in the selected market currency</li></ul></m-step><m-step title="Click Add entry"><p>Select <strong>Add entry</strong> to save the manual price edit. The new row will appear in the list below the form with its timestamp and price.</p></m-step></m-steps>
 
 ## How the saved entry appears
 
-After you click **Add entry**, the entry is listed in the history table underneath the form. Each row shows the recorded date and time on the left and the saved price on the right.
+After you click **Add entry**, the entry is listed in the history table underneath the form. Each row shows the recorded date and time on the left and the saved price on the right, and manually added rows carry a **Manual** tag.
 
-If the new record becomes the lowest qualifying price in the last 30 days, the summary at the top of the block updates to reflect it.
+If the new record becomes the lowest qualifying price in the last 30 days, your storefront lowest-price disclosure updates to reflect it.
 
 <m-tip>If you are documenting a promotion that ran for a specific market only, always check the <strong>Market</strong> selector before saving. The same product can have different price histories across markets.</m-tip>
 
-## Edit an existing manual entry
+## Edit or remove an entry
 
-If you entered the wrong date, time, or price, you can update the record directly from the same block.
+To remove an entry that was added by mistake, find the row in the history list, click its trash icon, and confirm the removal so it no longer affects the product's displayed price history. To correct a wrong date, time, or price, delete the entry and add a new one with the right values.
 
-<m-steps><m-step title="Find the entry in the list"><p>Locate the saved row you want to change in the history list.</p></m-step><m-step title="Click the edit icon"><p>Select the pencil icon on that row.</p></m-step><m-step title="Update the details"><p>Correct the <strong>Date</strong>, <strong>Time</strong>, or <strong>Price</strong> values as needed.</p></m-step><m-step title="Save the change"><p>Confirm the update in the block so the corrected value appears in the price history list.</p></m-step></m-steps>
-
-## Delete a manual entry
-
-If a manual entry was added by mistake, you can remove it from the same list.
-
-<m-steps><m-step title="Find the incorrect entry"><p>Locate the row you want to remove.</p></m-step><m-step title="Click the delete icon"><p>Select the trash icon on that row.</p></m-step><m-step title="Confirm the removal"><p>Remove the entry so it no longer affects the product's displayed price history.</p></m-step></m-steps><m-warning>Delete entries carefully. Removing a valid historical price record can change the <strong>Lowest price (last 30 days)</strong> shown to customers.</m-warning>
+<m-warning>Delete entries carefully. Removing a valid historical price record can change the <strong>Lowest price (last 30 days)</strong> shown to customers.</m-warning>
 
 ## Best practices for manual price edits
 
