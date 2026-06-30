@@ -6,7 +6,7 @@ seoTitle: Manual price history entries in Omnibus Owl
 seoDescription: Add manual price history entries in Omnibus Owl using the Product Price History block so custom promotions stay compliant and transparent.
 slug: manual-price-history-entries
 order: 0
-status: draft
+status: published
 ---
 
 ## When to use manual price history entries
